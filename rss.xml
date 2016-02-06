@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SueMarks]]></title>
         <description><![CDATA[SueMarks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suemarks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 14:06:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 14:20:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suemarks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wandering the World]]></title>
+            <description><![CDATA[<article><h1>Wandering the World</h1><p>I'll never live long enough to travel all the places I want to go. I have hit a number of my "bucket list" places and events.  Here's a few. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52034c3c1a30c29d3c4f43ce1d947b6b4c5c9f70.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suemarks/wandering-the-world/index.html</link>
+            <guid isPermaLink="false">a575fbdb-cef8-4e89-b9ac-0617f8cbd993</guid>
+            <pubDate>Sat, 06 Feb 2016 14:18:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11a2403-3e35-4620-a59c-e5433984beaa.jpg">]]></description>
-            <link>undefinede18bf586-3742-4a84-984c-46746264fb26/index.html</link>
+            <link>https://thegrid.ai/suemarks/e18bf586-3742-4a84-984c-46746264fb26/index.html</link>
             <guid isPermaLink="false">e18bf586-3742-4a84-984c-46746264fb26</guid>
             <pubDate>Sat, 06 Feb 2016 14:03:11 GMT</pubDate>
         </item>
