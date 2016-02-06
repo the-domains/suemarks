@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: SueMarks
 favicon: null
+name: SueMarks
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.21162
-layout_spectrum: 0.42335
+layout_spectrum: 1
