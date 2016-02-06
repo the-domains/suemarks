@@ -1,7 +1,7 @@
 name: SueMarks
 favicon: null
-layout_spectrum: 0.7532523663248867
-typography_spectrum: 0.35540395649150014
+layout_spectrum: 0.42335
+typography_spectrum: 0.21162
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.2963767347391695
-  lightness: 0.6947808819822967
-  saturation: 0.7691170894540846
-  rhythmicContrast: 0.03118531033396721
+  brandStrength: 0.875
+  lightness: 0.125
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
